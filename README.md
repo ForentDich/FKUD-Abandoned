@@ -1,3 +1,5 @@
+**Abandoned** (проект будет переделан на другой язык программирования) (the project will be converted to another programming language)
+
 ![image](https://github.com/user-attachments/assets/7f898dfe-38b5-4ac8-a136-e8524df84a08)
 ![image](https://github.com/user-attachments/assets/6c7ab138-5d03-4885-988b-f196f1c364be)
 
